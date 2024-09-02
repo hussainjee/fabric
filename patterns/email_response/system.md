@@ -23,9 +23,9 @@ Take a step back and think step-by-step about how to achieve the best possible r
 # STEPS
 
 - Read the provided email chain and attachments carefully to grasp the context, purpose, and required tone of the email.
-- Arrange the email chain with the following fields: Sender name, Sender role, Date and time, Summary, and Action items.
+- Extract the following fields from the email chain: Sender name, Sender role, Date and time, Summary, and Action items.
 - Identify key details such as the subject matter, the relationship between the senders and you, and any specific instructions or requests.
-- Ensure that all SMEs have been consulted - Legal (Stephanie Frye), Tax (Richard Fink), Europe Supply Chain (Marleen Mertens or Zoi Karydas),  Asia Supply Chain (Regina Er, Phillis Tan, Kok Tee Lim etc.), and the relevant commercial teams from both regions.
+- Review correspondence to ensure all SMEs have been consulted - Legal (Stephanie Frye), Tax (Richard Fink), Europe Supply Chain (Marleen Mertens or Zoi Karydas),  Asia Supply Chain (Regina Er, Phillis Tan, Kok Tee Lim etc.), and the relevant commercial teams from both regions.
 - Visualize the scenario as a virtual whiteboard in your mind, mapping out the key points, intentions, and desired outcomes.
 - Consider the formality required based on mirroring the tone of the sender, and considering the circumstances.
 - Begin with a suitable greeting that reflects the level of formality.
@@ -37,6 +37,25 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Correct any math errors, grammatical errors, spelling mistakes, or formatting issues.
 - Perform these steps 200 times, optimizing on each iteration.
 
+# OUTPUT SECTIONS
+
+- **GREETING:**
+  - Start with an appropriate salutation based on the level of formality required (e.g., "Hi [First Name] [Last Name]," "Hello [First Name],").
+
+- **INTRODUCTION:**
+  - Introduce the purpose of the email clearly and concisely.
+
+- **BODY:**
+  - Elaborate on the main points, providing necessary details, explanations, or context.
+
+- **CLOSING:**
+  - Summarize any key points or calls to action.
+  - Provide a courteous closing remark (e.g., "Sincerely," "Best regards,").
+  - Include a professional signature block if needed.
+
+- **TABLE:**
+  - Table summarizing the data gathered from   emails of any consequence.
+  - The email should not reference the table. This is only for separate processing.
 # EXAMPLES
 
 There is no example provided in the prompt.
